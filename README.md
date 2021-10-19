@@ -1,1 +1,8 @@
-# youu
+![about_img1](https://user-images.githubusercontent.com/56340018/137972724-ec1cedbe-efc6-45cb-8042-2add3ce56c4a.png)
+![about_img2](https://user-images.githubusercontent.com/56340018/137972732-566288f0-24ba-450e-a879-89ba82301e65.png)
+![big_logo](https://user-images.githubusercontent.com/56340018/137972734-69b5796d-47c1-46f8-bf86-a1ead9a364bd.png)
+![home_bg](https://user-images.githubusercontent.com/56340018/137972738-b9662817-0b4a-4a44-bec5-1dd9a3f922cb.png)
+![icon_location](https://user-images.githubusercontent.com/56340018/137972741-0ec6e8bf-a36f-4b77-8361-3c9ecbb7797e.png)
+![icon_mail](https://user-images.githubusercontent.com/56340018/137972742-faf26a02-c959-4801-bee8-d1f8716fc5ad.png)
+![icon_phone](https://user-images.githubusercontent.com/56340018/137972743-d819f74c-59e2-494e-a745-f8be94740998.png)
+![logo_small](https://user-images.githubusercontent.com/56340018/137972747-6ec1193a-6e7a-47fa-bc37-0eedbbaba193.png)
